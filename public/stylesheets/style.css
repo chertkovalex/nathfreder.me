@@ -1,0 +1,14 @@
+#blogSide {
+   background: url(images/bg-1.jpg);
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+#profileSide {
+   background: url(images/bg-2.jpg);
+   width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+}
